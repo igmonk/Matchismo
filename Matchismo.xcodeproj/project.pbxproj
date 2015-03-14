@@ -81,8 +81,6 @@
 		78C0D9811AB4668F00AFD808 /* Matchismo */ = {
 			isa = PBXGroup;
 			children = (
-				78C0D9861AB4668F00AFD808 /* AppDelegate.h */,
-				78C0D9871AB4668F00AFD808 /* AppDelegate.m */,
 				78C0D9891AB4668F00AFD808 /* ViewController.h */,
 				78C0D98A1AB4668F00AFD808 /* ViewController.m */,
 				78C0D98C1AB4668F00AFD808 /* Main.storyboard */,
@@ -96,6 +94,8 @@
 		78C0D9821AB4668F00AFD808 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				78C0D9861AB4668F00AFD808 /* AppDelegate.h */,
+				78C0D9871AB4668F00AFD808 /* AppDelegate.m */,
 				78C0D9831AB4668F00AFD808 /* Info.plist */,
 				78C0D9841AB4668F00AFD808 /* main.m */,
 			);

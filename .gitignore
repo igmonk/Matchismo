@@ -1,0 +1,7 @@
+# Mac files #
+.DS_store
+
+# Xcode build files #
+Matchismo/build/
+Matchismo/Matchismo.xcodeproj/project.xcworkspace/xcuserdata/
+Matchismo/Matchismo.xcodeproj/xcuserdata/
