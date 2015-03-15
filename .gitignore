@@ -3,5 +3,6 @@
 
 # Xcode build files #
 Matchismo/build/
+Matchismo.xcodeproj/xcuserdata/
 Matchismo.xcodeproj/project.xcworkspace/xcuserdata/
 Matchismo/Matchismo.xcodeproj/xcuserdata/
